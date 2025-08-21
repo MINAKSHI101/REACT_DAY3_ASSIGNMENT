@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "name": "Leanne Graham",
+    "email": "Sincere@april.biz",
+    "phone": "1-770-736-8031",
+    "username": "Bret",
+    "company": { "name": "Romaguera-Crona" },
+    "address": { "street": "Kulas Light", "suite": "Apt. 556", "city": "Gwenborough" },
+    "website": "hildegard.org"
+  },
+  {
+    "id": 2,
+    "name": "Ervin Howell",
+    "email": "Shanna@melissa.tv",
+    "phone": "010-692-6593",
+    "username": "Antonette",
+    "company": { "name": "Deckow-Crist" },
+    "address": { "street": "Victor Plains", "suite": "Suite 879", "city": "Wisokyburgh" },
+    "website": "anastasia.net"
+  }
+]

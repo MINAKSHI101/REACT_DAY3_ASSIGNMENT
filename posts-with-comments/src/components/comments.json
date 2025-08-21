@@ -1,0 +1,20 @@
+[
+  {
+    "postId": 1,
+    "id": 1,
+    "email": "user1@example.com",
+    "body": "Great post! Really enjoyed it."
+  },
+  {
+    "postId": 1,
+    "id": 2,
+    "email": "user2@example.com",
+    "body": "Thanks for sharing this information."
+  },
+  {
+    "postId": 2,
+    "id": 3,
+    "email": "user3@example.com",
+    "body": "Very interesting perspective."
+  }
+]
